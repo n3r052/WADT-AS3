@@ -26,7 +26,7 @@
     </div>
     <div class="p-8">
       <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Muhammad Iqbal Haziq bin Abdul Ghani</div>
-      <p class="block mt-1 text-lg leading-tight font-medium">19FTT1157</p>
+      <p class="block mt-1 text-lg leading-tight font-medium mah-id">19FTT1157</p>
       <p class="mt-2 text-gray-500">Student of Intake 9 from Web Development</p>
     </div>
   </div>
@@ -58,6 +58,10 @@ li {
   margin: 0 10px;
 }
 a {
+  color: #42b983;
+}
+
+.mah-id{
   color: #42b983;
 }
 </style>
